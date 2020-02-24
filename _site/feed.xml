@@ -5,8 +5,8 @@
     <description>Jekflix is a template for Jekyll inspired by Netflix and made by Thiago Rossener.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 24 Feb 2020 19:11:23 +0800</pubDate>
-    <lastBuildDate>Mon, 24 Feb 2020 19:11:23 +0800</lastBuildDate>
+    <pubDate>Mon, 24 Feb 2020 19:33:44 +0800</pubDate>
+    <lastBuildDate>Mon, 24 Feb 2020 19:33:44 +0800</lastBuildDate>
     <generator>Jekyll v3.8.6</generator>
     
       <item>
@@ -59,7 +59,7 @@ export default {
     
       <item>
         <title>BSP OS porting</title>
-        <description>&lt;div style=&quot;display: table;width:750px;margin:0 auto; border:#FFFFFF 1px solid;&quot; class=&quot;text001&quot;&gt; &lt;br /&gt; AAEON is providing Linux and Android BSP support for the most popular application processors and AAEON hardware products.&lt;br /&gt; We work very close to the most important SOC vendors to offer the best evaluation experience to customers who want to explore the possibilities of building their products based on AAEON SOMs or Single Board Computers.&lt;br /&gt; We have the capability to create BSPs and implement device drivers for both standard and custom development boards.&lt;br /&gt; &lt;div style=&quot;display:inline-block;float:right;&quot;&gt;&lt;img src=&quot;https://github.com/AaeonCM/images/blob/master/bsp1.jpg?raw=true&quot; /&gt; &lt;/div&gt; &lt;/div&gt; &lt;div style=&quot;display: table;width:750px;margin:0 auto; border:#FFFFFF 1px solid;&quot; class=&quot;text001&quot;&gt; We...</description>
+        <description>&lt;div style=&quot;display: table;width:750px;margin:0 auto; border:#FFFFFF 1px solid;&quot; class=&quot;text001&quot;&gt; &lt;br /&gt; AAEON is providing Linux and Android BSP support for the most popular application processors and AAEON hardware products.&lt;br /&gt; We work very close to the most important SOC vendors to offer the best evaluation experience to customers who want to explore the possibilities of building their products based on AAEON SOMs or Single Board Computers.&lt;br /&gt; We have the capability to create BSPs and implement device drivers for both standard and custom development boards.&lt;br /&gt; &lt;!-- &lt;div style=&quot;display:inline-block;float:right;&quot;&gt;&lt;img src=&quot;https://github.com/AaeonCM/images/blob/master/bsp1.jpg?raw=true&quot; /&gt; &lt;/div&gt; --&gt; &lt;/div&gt; &lt;div style=&quot;display: table;width:750px;margin:0 auto; border:#FFFFFF 1px solid;&quot;&gt;...</description>
         <pubDate>Wed, 10 Oct 2018 20:26:40 +0800</pubDate>
         <link>http://localhost:4000/bsp/</link>
         <guid isPermaLink="true">http://localhost:4000/bsp/</guid>
