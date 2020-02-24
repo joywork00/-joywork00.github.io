@@ -5,8 +5,8 @@
     <description>Jekflix is a template for Jekyll inspired by Netflix and made by Thiago Rossener.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 24 Feb 2020 19:33:44 +0800</pubDate>
-    <lastBuildDate>Mon, 24 Feb 2020 19:33:44 +0800</lastBuildDate>
+    <pubDate>Mon, 24 Feb 2020 19:56:53 +0800</pubDate>
+    <lastBuildDate>Mon, 24 Feb 2020 19:56:53 +0800</lastBuildDate>
     <generator>Jekyll v3.8.6</generator>
     
       <item>
@@ -69,7 +69,7 @@ export default {
     
       <item>
         <title>Internet Of Things</title>
-        <description>&lt;h2 id=&quot;introduction&quot;&gt;Introduction&lt;/h2&gt; &lt;div style=&quot;display: table;width:750px;margin:0 auto; border:#FFFFFF 1px solid;&quot; class=&quot;text001&quot;&gt; &lt;br /&gt; AAEON continues to innovate in providing end-to-end solutions for industrial computing and network applications with our High Efficiency, Reliable and Optimal (HERO) software solutions.&lt;br /&gt; HERO software solutions leverage our expertise and experience with our containerized web app, the HERO Device Management Center (HERO DMC), and native edge device software, the HERO Agent, HERO SDK, and HERO Gateway.&lt;br /&gt; Available pre-loaded on a selection of AAEON platforms, this software infrastructure allows users to monitor several devices and sensors from anywhere thanks to cloud-based technology and edge computing &lt;/div&gt;...</description>
+        <description>&lt;div style=&quot;display: table;width:750px;margin:0 auto; border:#FFFFFF 1px solid;&quot; class=&quot;text001&quot;&gt; &lt;br /&gt; AAEON continues to innovate in providing end-to-end solutions for industrial computing and network applications with our High Efficiency, Reliable and Optimal (HERO) software solutions.&lt;br /&gt; HERO software solutions leverage our expertise and experience with our containerized web app, the HERO Device Management Center (HERO DMC), and native edge device software, the HERO Agent, HERO SDK, and HERO Gateway.&lt;br /&gt; Available pre-loaded on a selection of AAEON platforms, this software infrastructure allows users to monitor several devices and sensors from anywhere thanks to cloud-based technology and edge computing &lt;/div&gt; &lt;h2 id=&quot;features&quot;&gt;Features&lt;/h2&gt;...</description>
         <pubDate>Tue, 09 Oct 2018 20:26:40 +0800</pubDate>
         <link>http://localhost:4000/iot/</link>
         <guid isPermaLink="true">http://localhost:4000/iot/</guid>
@@ -143,7 +143,7 @@ export default {
 &lt;div&gt;
 &lt;table class=&quot;fancytable&quot;&gt;
 &lt;tr class=&quot;headerrow&quot;&gt;&lt;td&gt;Prodects&lt;/td&gt;&lt;td&gt;	Description&lt;/td&gt;&lt;td&gt;Links&lt;/td&gt;&lt;/tr&gt;
-&lt;tr class=&quot;datarowodd&quot;&gt;&lt;td&gt;HERO Agent&lt;/td&gt;&lt;td&gt;A HERO Agent guide page to tell you how to ues.&lt;/td&gt;&lt;td&gt;&lt;a href=&quot;https://heroagent.readthedocs.io/en/latest/&quot;&gt;HEROAgent Documentation&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr class=&quot;datarowodd&quot;&gt;&lt;td&gt;HERO Agent&lt;/td&gt;&lt;td&gt;HERO Agent user guide&lt;/td&gt;&lt;td&gt;&lt;a href=&quot;https://heroagent.readthedocs.io/en/latest/&quot;&gt;HEROAgent Documentation&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;
 &lt;!-- &lt;tr  class=&quot;dataroweven&quot;&gt;&lt;td&gt;Andriod&lt;/td&gt;&lt;td&gt;欄位內容&lt;/td&gt;&lt;td&gt;欄位內容&lt;/td&gt;&lt;/tr&gt;
 &lt;tr  class=&quot;datarowodd&quot;&gt;&lt;td&gt;&lt;a href=&quot;https://heroagent.readthedocs.io/en/latest/&quot;&gt;Windows&lt;/a&gt;&lt;/td&gt;&lt;td&gt;欄位內容&lt;/td&gt;&lt;td&gt;欄位內容&lt;/td&gt;&lt;/tr&gt; --&gt;
 &lt;/table&gt;
