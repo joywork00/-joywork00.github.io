@@ -5,8 +5,8 @@
     <description>Jekflix is a template for Jekyll inspired by Netflix and made by Thiago Rossener.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 19 Feb 2020 12:42:26 +0800</pubDate>
-    <lastBuildDate>Wed, 19 Feb 2020 12:42:26 +0800</lastBuildDate>
+    <pubDate>Mon, 24 Feb 2020 14:50:24 +0800</pubDate>
+    <lastBuildDate>Mon, 24 Feb 2020 14:50:24 +0800</lastBuildDate>
     <generator>Jekyll v3.8.6</generator>
     
       <item>
@@ -80,7 +80,7 @@ export default {
     
       <item>
         <title>Internet Of Things</title>
-        <description>&lt;h1 id=&quot;introduction&quot;&gt;Introduction&lt;/h1&gt; &lt;div style=&quot;display: table;width:1000px;margin:0 auto; border:#FFFFFF 1px solid;&quot; class=&quot;text001&quot;&gt; &lt;br /&gt; AAEON continues to innovate in providing end-to-end solutions for industrial computing and network applications with our High Efficiency, Reliable and Optimal (HERO) software solutions.&lt;br /&gt; HERO software solutions leverage our expertise and experience with our containerized web app, the HERO Device Management Center (HERO DMC), and native edge device software, the HERO Agent, HERO SDK, and HERO Gateway.&lt;br /&gt; Available pre-loaded on a selection of AAEON platforms, this software infrastructure allows users to monitor several devices and sensors from anywhere thanks to cloud-based technology and edge computing &lt;/div&gt;...</description>
+        <description>&lt;h1 id=&quot;introduction&quot;&gt;Introduction&lt;/h1&gt; &lt;div style=&quot;display: table;width:750px;margin:0 auto; border:#FFFFFF 1px solid;&quot; class=&quot;text001&quot;&gt; &lt;br /&gt; AAEON continues to innovate in providing end-to-end solutions for industrial computing and network applications with our High Efficiency, Reliable and Optimal (HERO) software solutions.&lt;br /&gt; HERO software solutions leverage our expertise and experience with our containerized web app, the HERO Device Management Center (HERO DMC), and native edge device software, the HERO Agent, HERO SDK, and HERO Gateway.&lt;br /&gt; Available pre-loaded on a selection of AAEON platforms, this software infrastructure allows users to monitor several devices and sensors from anywhere thanks to cloud-based technology and edge computing &lt;/div&gt;...</description>
         <pubDate>Tue, 09 Oct 2018 20:26:40 +0800</pubDate>
         <link>http://localhost:4000/iot/</link>
         <guid isPermaLink="true">http://localhost:4000/iot/</guid>
@@ -90,7 +90,8 @@ export default {
     
       <item>
         <title>AI</title>
-        <description>&lt;!-- - **Type:** `Function` --&gt;
+        <description>&lt;p&gt;&lt;a href=&quot;https://www.aaeon.com/en/ac/ai-computing-platform&quot;&gt;&lt;img src=&quot;https://raw.githubusercontent.com/AaeonCM/images/master/artificial-intelligence-3382509_960_720.webp&quot; /&gt;&lt;/a&gt;
+&lt;!-- - **Type:** `Function` --&gt;&lt;/p&gt;
 
 &lt;!-- &lt;div class=&quot;Alert Alert--nuxt-green&quot;&gt;
 
@@ -141,16 +142,23 @@ export default {
         <title>Document &amp; Tools</title>
         <description>&lt;head&gt;
 &lt;style&gt;
-.fancytable{border:1px solid #cccccc; width:100%; border-collapse:collapse;}
+.fancytable{border:1px solid #cccccc; width:50%; border-collapse:collapse;}
 .fancytable td{ border:1px solid #cccccc; color:#555555; text-align:center; line-height:28px;}
 .headerrow{background-color:#0066cc;height:30px;}
-.datarowodd{background-color:#ffffff;}
-.dataroweven{background-color:#efefef;}
-.datarowodd td{background-color:#ffffff;}
-.headerrow td{ color:#ffffff; text-align:center;}
-.dataroweven td{ background-color:#efefef;}
+.datarowodd{background-color:#ffffff;height:100px;}
+.dataroweven{background-color:#efefef;height:100px;}
+.datarowodd td{background-color:#ffffff;height:100px;}
+.headerrow td{ color:#ffffff; text-align:center;height:30px;}
+.dataroweven td{ background-color:#efefef;height:100px;}
 &lt;/style&gt;
-
+&lt;div&gt;
+&lt;table class=&quot;fancytable&quot;&gt;
+&lt;tr class=&quot;headerrow&quot;&gt;&lt;td&gt;Prodects&lt;/td&gt;&lt;td&gt;	Description&lt;/td&gt;&lt;td&gt;Links&lt;/td&gt;&lt;/tr&gt;
+&lt;tr class=&quot;datarowodd&quot;&gt;&lt;td&gt;HERO Agent&lt;/td&gt;&lt;td&gt;A HERO Agent guide page to tell you how to ues.&lt;/td&gt;&lt;td&gt;&lt;a href=&quot;https://heroagent.readthedocs.io/en/latest/&quot;&gt;HEROAgent Documentation&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;!-- &lt;tr  class=&quot;dataroweven&quot;&gt;&lt;td&gt;Andriod&lt;/td&gt;&lt;td&gt;欄位內容&lt;/td&gt;&lt;td&gt;欄位內容&lt;/td&gt;&lt;/tr&gt;
+&lt;tr  class=&quot;datarowodd&quot;&gt;&lt;td&gt;&lt;a href=&quot;https://heroagent.readthedocs.io/en/latest/&quot;&gt;Windows&lt;/a&gt;&lt;/td&gt;&lt;td&gt;欄位內容&lt;/td&gt;&lt;td&gt;欄位內容&lt;/td&gt;&lt;/tr&gt; --&gt;
+&lt;/table&gt;
+&lt;/div&gt;
 
 
 &lt;/head&gt;
